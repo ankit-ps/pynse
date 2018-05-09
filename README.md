@@ -1,18 +1,24 @@
 # pynse
 Library to fetch real time/past nse data
 
-## TODO
+## DONE
+Current Quote for a NSE scrip - Done
+
+P/E ratio for a scrip
+
 Top 10 gainers
 
 Top 10 Losers
 
-Current Quote for a NSE scrip
 
+## TODO
 Current Quote for a NSE index
 
-Current Quote for a NSE future
+Top losers per index
 
-P/E ratio for a scrip
+Top gainers per index
+
+Current Quote for a NSE future
 
 Last 2min, 5min, 10min, 30min, 1day, 7day, 30day volume
 
